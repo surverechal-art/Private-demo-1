@@ -5,3 +5,5 @@ $n = trim(fgets(STDIN))
 else
   echo "odd";
 ?>
+
+#even or odd code in php
